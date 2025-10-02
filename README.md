@@ -3,3 +3,4 @@ John Edelman
 Rodolfo Baza
 Joseph Van
 Gabe Littrell
+Daniel Marín Sánchez
